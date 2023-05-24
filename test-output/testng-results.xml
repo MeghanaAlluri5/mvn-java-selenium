@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T09:40:18 IST" name="Default suite" finished-at="2023-05-24T09:42:05 IST" duration-ms="106381">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T09:40:18 IST" name="Default test" finished-at="2023-05-24T09:42:05 IST" duration-ms="106381">
+      <class name="test.Scripts">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:40:18 IST" name="openBrowser" finished-at="2023-05-24T09:40:35 IST" duration-ms="16904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testCase_e2eFlow()[pri:0, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:40:35 IST" name="testCase_e2eFlow" finished-at="2023-05-24T09:40:57 IST" duration-ms="22190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_e2eFlow -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:40:57 IST" name="closeBrowser" finished-at="2023-05-24T09:40:58 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:40:58 IST" name="openBrowser" finished-at="2023-05-24T09:41:07 IST" duration-ms="9352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testCase_e2eFlow2()[pri:1, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:41:07 IST" name="testCase_e2eFlow2" finished-at="2023-05-24T09:41:36 IST" duration-ms="28881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_e2eFlow2 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:41:36 IST" name="closeBrowser" finished-at="2023-05-24T09:41:36 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:41:36 IST" name="openBrowser" finished-at="2023-05-24T09:41:50 IST" duration-ms="14018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testCase_tooltipValidation()[pri:2, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:41:50 IST" name="testCase_tooltipValidation" finished-at="2023-05-24T09:42:05 IST" duration-ms="14695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_tooltipValidation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.Scripts@4df50bcc]" started-at="2023-05-24T09:42:05 IST" name="closeBrowser" finished-at="2023-05-24T09:42:05 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.Scripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
